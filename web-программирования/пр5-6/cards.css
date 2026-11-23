@@ -1,0 +1,5 @@
+ .grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-top: 18px; }
+.card { padding: 18px; background: white; border: 1px solid #dfe4ec; border-radius: 16px; }
+.card h3 { margin-top: 0; }
+.price { font-size: 22px; font-weight: 700; }
+.stats, .notice { margin-top: 18px; padding: 16px; border-radius: 14px; background: white; border: 1px solid #dfe4ec; }

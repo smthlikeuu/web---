@@ -1,0 +1,3 @@
+ .grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
+.card { background: white; border: 1px solid #dce2ea; padding: 22px; }
+.card button { padding: 10px 14px; }

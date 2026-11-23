@@ -1,0 +1,6 @@
+ .card { box-shadow: 0 8px 24px rgba(22, 34, 51, .06); }
+.card:hover { transform: translateY(-2px); transition: .2s; }
+.notice { border-left: 5px solid #6e86b1; }
+/* Неиспользуемые правила для демонстрации лишнего CSS */
+.unused-banner { color: red; padding: 100px; }
+.old-layout { float: left; width: 33%; }

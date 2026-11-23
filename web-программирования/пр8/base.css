@@ -1,0 +1,8 @@
+body { margin: 0; font-family: Arial, sans-serif; background: #f5f7fb; color: #18202a; }
+.wrap { width: 1100px; margin: 0 auto; }
+.site-header { background: #172033; color: white; padding: 18px 0; }
+.site-header .wrap { display: flex; justify-content: space-between; align-items: center; }
+.site-header a { color: white; margin-left: 18px; }
+.hero { display: flex; gap: 36px; align-items: center; margin: 40px 0; padding: 34px; background: white; }
+.hero img { width: 520px; height: 300px; object-fit: cover; }
+.eyebrow { font-weight: bold; text-transform: uppercase; }
